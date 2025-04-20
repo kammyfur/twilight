@@ -1,0 +1,12 @@
+{
+  "install": [ "i", "a", "add" ],
+  "reinstall": [ "ri", "reset", "rs" ],
+  "remove": [ "r", "del", "rm", "delete", "uninstall", "u" ],
+  "update": [ "ud", "fetch", "refresh", "reload", "rl" ],
+  "upgrade": [ "ug" ],
+  "purge": [ "p", "ori", "ors", "oreset", "oreinstall" ],
+  "info": [ "inf", "view", "v", "if" ],
+  "list": [ "l", "ls", "all" ],
+  "installed": [ "il", "lil", "lsil", "allil" ],
+  "installable": [ "ia", "lia", "lsia", "allia" ]
+}

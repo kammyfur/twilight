@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "moment": "^2.29.1",
+    "ora": "^6.0.1",
+    "prompts": "^2.4.2",
+    "simple-git": "^3.1.1",
+    "yargs": "^17.3.1"
+  },
+  "name": "twilight",
+  "description": "A Git-based package manager made for Minteck's infrastructure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.minteck.org/minteck/twilight"
+  },
+  "author": "Minteck",
+  "license": "MIT"
+}
